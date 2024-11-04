@@ -2,6 +2,8 @@
 
 A powerful AI-powered application that helps tailor resumes for specific job descriptions using Google's Gemini AI. Built with Streamlit and Docker.
 
+![image](https://github.com/user-attachments/assets/5a8fc110-3967-4474-a36b-b3ca0de2ae7d)
+
 ## 🌟 Features
 
 - **PDF Resume Processing**: Upload and extract text from PDF resumes
