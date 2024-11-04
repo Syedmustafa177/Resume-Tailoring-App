@@ -4,8 +4,7 @@ A powerful AI-powered application that helps tailor resumes for specific job des
 
 ![image](https://github.com/user-attachments/assets/5a8fc110-3967-4474-a36b-b3ca0de2ae7d)
 
-
-<iframe src="https://www.linkedin.com/embed/feed/update/urn:li:ugcPost:7259275017710927872" height="1022" width="504" frameborder="0" allowfullscreen="" title="Embedded post"></iframe>
+="https://www.linkedin.com/embed/feed/update/urn:li:ugcPost:7259275017710927872"
 
 
 ## 🌟 Features
